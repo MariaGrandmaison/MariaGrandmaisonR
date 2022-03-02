@@ -1,4 +1,4 @@
-Oii! Eu sou a Maria Grandmaison.
+
 <div align="center">
   <a href="https://https://github.com/MariaGrandmaison">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariagrandmaison&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
